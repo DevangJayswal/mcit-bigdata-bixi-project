@@ -1,0 +1,58 @@
+{
+  "ttl": 10,
+  "data": {
+    "stations": [
+      {
+        "station_id": "1",
+        "external_id": "0b0fda98-08f3-11e7-a1cb-3863bb33a4e4",
+        "name": "Métro Champ-de-Mars (Viger / Sanguinet)",
+        "short_name": "6001",
+        "lat": 45.51016276368593,
+        "lon": -73.55663707494385,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "electric_bike_surcharge_waiver": false,
+        "is_charging": false,
+        "eightd_has_key_dispenser": false,
+        "has_kiosk": true
+      },
+      {
+        "station_id": "2",
+        "external_id": "0b0fdf05-08f3-11e7-a1cb-3863bb33a4e4",
+        "name": "Ste-Catherine / Dezery",
+        "short_name": "6002",
+        "lat": 45.539385081961676,
+        "lon": -73.54099988937377,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "electric_bike_surcharge_waiver": false,
+        "is_charging": false,
+        "eightd_has_key_dispenser": false,
+        "has_kiosk": true
+      },
+      {
+        "station_id": "3",
+        "external_id": "0b0fe114-08f3-11e7-a1cb-3863bb33a4e4",
+        "name": "Clark / Ontario",
+        "short_name": "6003",
+        "lat": 45.510823872894264,
+        "lon": -73.5671715438366,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "electric_bike_surcharge_waiver": false,
+        "is_charging": false,
+        "eightd_has_key_dispenser": false,
+        "has_kiosk": true
+      }
+    ]
+  }
+}
